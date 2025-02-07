@@ -1,3 +1,4 @@
+import sklearn
 import pickle as pk
 import streamlit as st
 
